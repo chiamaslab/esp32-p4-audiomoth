@@ -1,0 +1,9 @@
+firmware/build/
+firmware/bench/
+firmware/.venv/
+firmware/sdkconfig.old
+firmware/managed_components/
+__pycache__/
+*.pyc
+.DS_Store
+.env
