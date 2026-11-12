@@ -5,6 +5,7 @@ Prepared 2026-11-12. Includes the custom firmware, original flash images, config
 The practical contribution is a tested ultrasonic PoE microphone node for a separate BirdNET-Go server. Earlier AudioMoth/P4 and ESP32 network-microphone work is acknowledged in [credits and comparisons](CREDITS.md), along with the current provenance and licensing limits.
 
 Clone or download this repository and follow the setup below from `firmware/`. The [complete implementation packet](downloads/ESP32_P4_AudioMoth_Packet.zip) and [standalone Markdown guide](downloads/ESP32_P4_AudioMoth_Setup.md) are available in `downloads/` for forwarding to another implementer.
+<img width="3024" height="4032" alt="hardware" src="https://github.com/user-attachments/assets/e504ecee-6595-4ecc-b0fe-2d725d8b6163" />
 
 ## What this builds
 
