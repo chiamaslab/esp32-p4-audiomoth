@@ -243,3 +243,6 @@ details, and device identifiers local. Report actual test results and any
 remaining hardware, recording, or field-validation gaps. Give the owner
 about two physical setup steps at a time when hands-on help is needed.
 ```
+## Credits and related projects
+
+See `CREDITS.md` in the accompanying packet, or [credits and comparisons on GitHub](https://github.com/chiamaslab/esp32-p4-audiomoth/blob/main/CREDITS.md), for prior work, dependencies, source-comparison limits, and project licensing status.
